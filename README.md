@@ -10,3 +10,7 @@ I love to travel to new places around the world and hike or mountain bike whenev
 - CSS
 - JavaScript
 - React
+- Express.js
+- Mongoose
+- MongoDB
+- Node.js
