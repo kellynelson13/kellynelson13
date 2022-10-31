@@ -13,8 +13,14 @@ I love to travel to new places around the world and hike or mountain bike whenev
 - CSS
 - JavaScript
 - React
+- JSX
 - Express.js
 - EJS
 - Mongoose
 - MongoDB
 - Node.js
+- Python
+- Django
+- PostgreSQL
+- Materialize
+- React-Bootstrap
